@@ -1,6 +1,6 @@
 # 絶望
 
-> I build things that probably shouldn’t exist — and make them work.
+> I build things that probably shouldn’t exist and make them work.
 
 ---
 
