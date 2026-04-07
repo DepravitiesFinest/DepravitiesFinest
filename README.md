@@ -19,7 +19,7 @@ I like pushing ideas past their limits and turning them into something functiona
 ## Core Skills
 ```txt
 Languages:   Python • C# • C++ • Lua • JavaScript
-Focus:       Game Systems • Game Development • Automation • Backend Logic
+Focus:       Game Cheats • Game Development • Automation • Backend Logic
 ```
 
 ---
