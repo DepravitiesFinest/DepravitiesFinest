@@ -38,11 +38,6 @@ RAM:   64GB
 
 ---
 
-## Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=DepravitiesFinest&show_icons=true&theme=tokyonight)
-
----
-
 ## Note
 Most of my work is experimental, private, or constantly changing.  
 (Some projects never get finished and that’s because I'm a bum.)
