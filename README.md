@@ -5,15 +5,14 @@
 ---
 
 ## About Me
-I’m a developer focused on turning ideas into reality.  
-I enjoy pushing concepts past their limits and shaping them into something functional and visually clean.
+I’m a developer focused on creating anything that I can think of.  
+I like pushing ideas past their limits and turning them into something functional and cool looking - (I try).
 
 ---
 
 ## What I Do
-- Develop creative and unconventional systems  
-- Build first, optimize later  
-- Experiment with ideas that most people avoid  
+- Develop creative and sometimes unconventional things
+- Build first, fix later - (Maybe)
 
 ---
 
@@ -45,5 +44,5 @@ RAM:   64GB
 ---
 
 ## Note
-Most of my work is experimental, private, or constantly evolving.  
-(Some projects never get finished — and that’s part of the process.)
+Most of my work is experimental, private, or constantly changing.  
+(Some projects never get finished and that’s because I'm a bum.)
