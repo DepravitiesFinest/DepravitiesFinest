@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0020,100:0d0d0d&height=200&section=header&text=%E7%B5%B6%E6%9C%9B&fontSize=90&fontColor=ff0055&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20probably%20shouldn%27t%20exist&descSize=15&descAlignY=65&descColor=444444" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0020,100:0d0d0d&height=200&section=header&text=%E7%B5%B6%E6%9C%9B&fontSize=90&fontColor=720000&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20probably%20shouldn%27t%20exist&descSize=15&descAlignY=65&descColor=444444" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF0055&center=true&vCenter=true&width=520&lines=if+it+compiles%2C+ship+it.;build+first.+fix+later.+maybe.;some+projects+never+get+finished.;and+that%27s+because+I%27m+a+bum." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=720000&center=true&vCenter=true&width=520&lines=if+it+compiles%2C+ship+it.;build+first.+fix+later.+maybe.;some+projects+never+get+finished.;and+that%27s+because+I%27m+a+bum." />
 
 </div>
 
