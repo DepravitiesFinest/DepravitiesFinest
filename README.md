@@ -15,9 +15,9 @@
 <div align="center">
 
 ```
-developer focused on creating anything i can think of.
-i like pushing ideas past their limits and making them work.
-(i try.)
+Developer focused on creating anything I can think of.
+I like pushing ideas past their limits and making them work.
+(I try.)
 ```
 
 </div>
@@ -65,9 +65,9 @@ i like pushing ideas past their limits and making them work.
 <div align="center">
 
 ```
-cpu   ryzen 5 5500
-gpu   rtx 3060 gaming x
-ram   64gb
+cpu:   ryzen 5 5500
+gpu:   rtx 3060 gaming x
+ram:   64gb
 ```
 
 </div>
