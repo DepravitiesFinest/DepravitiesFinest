@@ -1,11 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════╗
-║  絶望                                                    ║
-║  you found the source. Sigma.                            ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0020,100:0d0d0d&height=200&section=header&text=%E7%B5%B6%E6%9C%9B&fontSize=90&fontColor=ff0055&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20probably%20shouldn%27t%20exist&descSize=15&descAlignY=65&descColor=444444" width="100%"/>
@@ -14,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF0055&center=true&vCenter=true&width=520&lines=if+it+compiles%2C+ship+it.;build+first.+fix+never.;private+repos+are+my+art.;currently+ignoring+14+open+issues." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF0055&center=true&vCenter=true&width=520&lines=if+it+compiles%2C+ship+it.;build+first.+fix+later.+maybe.;some+projects+never+get+finished.;and+that%27s+because+I%27m+a+bum." />
 
 </div>
 
@@ -23,8 +15,9 @@
 <div align="center">
 
 ```
-i write code that works for the wrong reasons.
-most of it is private. some of it is illegal in 3 countries. all of it runs.
+developer focused on creating anything i can think of.
+i like pushing ideas past their limits and making them work.
+(i try.)
 ```
 
 </div>
@@ -37,7 +30,7 @@ most of it is private. some of it is illegal in 3 countries. all of it runs.
 
 ### skills
 
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,lua,js,git&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,lua,js&theme=dark&perline=5" />
 
 </div>
 
@@ -84,10 +77,8 @@ ram   64gb
 <div align="center">
 
 ```
-experimental. private. always changing.
-commit messages are a cry for help.
-some projects will never be finished.
-that is not changing either.
+most of my work is experimental, private, or constantly changing.
+some projects never get finished and that's because i'm a bum.
 ```
 
 <br/>
@@ -99,7 +90,3 @@ that is not changing either.
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:1a0020,100:0d0d0d&height=100&section=footer" width="100%"/>
-
-<!--
-  go build something.
--->
