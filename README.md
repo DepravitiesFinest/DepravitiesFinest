@@ -15,7 +15,7 @@
 <div align="center">
 
 ```
-Developer focused on creating anything I can think of.
+developer focused on creating anything I can think of.
 I like pushing ideas past their limits and making them work.
 (I try.)
 ```
@@ -38,9 +38,9 @@ I like pushing ideas past their limits and making them work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DepravitiesFinest&show_icons=true&theme=transparent&hide_border=true&title_color=ff0055&icon_color=ff0055&text_color=555555&bg_color=0d0d0d&ring_color=ff003350&hide=contribs&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DepravitiesFinest&show_icons=true&hide_border=true&title_color=ff0055&icon_color=ff0055&text_color=555555&bg_color=00000000&hide=contribs&count_private=true" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepravitiesFinest&layout=compact&theme=transparent&hide_border=true&title_color=ff0055&text_color=444444&bg_color=0d0d0d&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepravitiesFinest&layout=compact&hide_border=true&title_color=ff0055&text_color=444444&bg_color=00000000&langs_count=6" height="160"/>
 
 </div>
 
@@ -65,9 +65,9 @@ I like pushing ideas past their limits and making them work.
 <div align="center">
 
 ```
-cpu:   ryzen 5 5500
-gpu:   rtx 3060 gaming x
-ram:   64gb
+CPU:  Ryzen 5 5500
+GPU:  RTX 3060 Gaming X
+RAM:  64GB
 ```
 
 </div>
@@ -78,7 +78,7 @@ ram:   64gb
 
 ```
 most of my work is experimental, private, or constantly changing.
-some projects never get finished and that's because i'm a bum.
+some projects never get finished and that's because I'm a bum.
 ```
 
 <br/>
