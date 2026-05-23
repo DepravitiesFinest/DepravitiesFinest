@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF0055&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=if+it+compiles%2C+ship+it.;build+first.+fix+never.;私は存在すべきでないものを作る。" />
+<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF0055&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=if+it+compiles%2C+ship+it.;build+first.+fix+never.;私は存在すべきでないものを作る。](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=FF0055&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=if+it+compiles%2C+ship+it.;build+first.+fix+never.;私は存在すべきでないものを作る。)" />
 
 </div>
 
