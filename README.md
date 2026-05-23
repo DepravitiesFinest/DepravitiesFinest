@@ -38,16 +38,6 @@ I like pushing ideas past their limits and making them work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DepravitiesFinest&show_icons=true&hide_border=true&title_color=ff0055&icon_color=ff0055&text_color=555555&bg_color=00000000&hide=contribs&count_private=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DepravitiesFinest&layout=compact&hide_border=true&title_color=ff0055&text_color=444444&bg_color=00000000&langs_count=6" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=DepravitiesFinest&theme=transparent&hide_border=true&ring=ff0055&fire=ff0055&currStreakLabel=444444&sideLabels=444444&currStreakNum=ff0055&sideNums=555555&dates=333333&background=0d0d0d" height="150"/>
 
 </div>
